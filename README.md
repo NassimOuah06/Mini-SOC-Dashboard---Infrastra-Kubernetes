@@ -70,7 +70,7 @@ chmod +x deploy.sh
 
 Note importante : Une fois le déploiement terminé, n'oubliez pas d'ouvrir un terminal dédié et de lancer la commande minikube tunnel pour rendre l'interface accessible sur votre navigateur à l'adresse <http://localhost>.
 
-#### 2. Nettoyage (garde la percistance)
+#### 2. Nettoyage (garde la persistance)
 
 Ce script supprime proprement toutes les ressources Kubernetes (Pods, Services, Ingress, Secrets) créées pour ce projet.
 
